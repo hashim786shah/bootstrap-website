@@ -1,0 +1,30 @@
+.section1a {
+    background-color: blue;
+    height: 300px;
+    padding-left: 10%;
+}
+
+.section1a h1 {
+    margin-top: 15%;
+}
+
+.section1b {
+    background-color: orange;
+    padding-left: 10%;
+    height: 300px;
+    padding-top: 6%;
+}
+
+.icons i {
+    margin: 2%;
+    font-size: 20px;
+    transition: all 0.7s ease-in-out;
+}
+
+i:hover {
+    transform: rotate(360deg);
+}
+a {
+    font-weight: bold;
+    
+}
